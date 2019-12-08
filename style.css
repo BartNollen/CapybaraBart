@@ -7,7 +7,7 @@ html, body {
 
 .page {
   background-color: white;
-  max-width: 65ch;
+  
 }
 
 .nav-header {
@@ -46,6 +46,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
+  max-width: 65ch;
 }
 
 
